@@ -1,0 +1,20 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "Javascript datastructure and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "algorithms",
+    "datastructure"
+  ],
+  "author": "oscicen",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
